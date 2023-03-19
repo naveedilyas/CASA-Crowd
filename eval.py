@@ -13,9 +13,9 @@ from HDP_Crowd_basic_vgg_dilation import *
 #from HDP_Crowd_Two_Attension_Module import *
 #from HDP_Crowd_Attension_end_No_dilation import *
 #from HDP_Crowd_basic_vgg_dilation import *
-from HDP_Crowd_No_dilation_Attension_end import *
-#from CASA_Crowd import DenseScaleNet
-from Convnet_01 import *
+# from HDP_Crowd_No_dilation_Attension_end import *
+from CASA_Crowd import DenseScaleNet
+#from Convnet_01 import *
 import os
 
 save_path = 'C:/Users/Naveed/Desktop/Datasets/venice_01/'
